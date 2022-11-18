@@ -6,6 +6,10 @@ LinkedIn PL:
 LinkedIn ENG:  
 <a href="https://www.linkedin.com/in/kaczkowski-maciej/?locale=en_US"><img src="https://img.shields.io/badge/-Maciej%20Kaczkowski-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>  
 
+Google Cloud Platform:
+<a href="https://www.cloudskillsboost.google/public_profiles/8d9413b3-325a-4ded-bdbd-8302b2074de1"><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/><a/>
+
+
 <!--
 Some statistics:  
 <p align="left">
