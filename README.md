@@ -11,7 +11,10 @@ Google Cloud Platform:
 
 Docker Hub:  
 <a href="https://hub.docker.com/u/lorca19"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/><a/>
-  
+
+Leetcode:  
+<a href="https://leetcode.com/u/lorca19/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+
 
 <!--
 Some statistics:  
