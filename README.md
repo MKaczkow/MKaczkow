@@ -15,12 +15,6 @@ Docker Hub:
 Leetcode:  
 <a href="https://leetcode.com/u/lorca19/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 
-
-<!--
-Some statistics:  
-<p align="left">
-<a href="https://github.com/MKaczkow">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MKaczkow&layout=compact&langs_count=42&theme=algolia"/>
-</a>
-</p>
--->
+Certs:  
+[Credly - Google Cloud](https://www.credly.com/users/maciej-kaczkowski.4b7d2d14/badges/credly)  
+[OpenAI](https://oaipartnernetwork.credential.net/profile/maciejkaczkowski894780/wallet)
