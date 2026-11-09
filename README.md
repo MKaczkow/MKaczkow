@@ -15,6 +15,6 @@ Docker Hub:
 Leetcode:  
 <a href="https://leetcode.com/u/lorca19/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
 
-Certs:  
-[Credly - Google Cloud](https://www.credly.com/users/maciej-kaczkowski.4b7d2d14/badges/credly)  
-[OpenAI](https://oaipartnernetwork.credential.net/profile/maciejkaczkowski894780/wallet)
+Certs / Badges:  
+<a href="https://www.credly.com/users/maciej-kaczkowski.4b7d2d14/badges/credly"><img src="https://dashboardicons.com/api/icons/external/simpleicons/credly/brand.png" alt="Credly Logo" width="100" />  
+<a href="https://oaipartnernetwork.credential.net/profile/maciejkaczkowski894780/wallet"><img src="https://img.shields.io/badge/OpenAI-Partner_Network-00A67E?logo=openai&logoColor=white" />
